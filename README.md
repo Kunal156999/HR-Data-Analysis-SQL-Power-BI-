@@ -7,10 +7,10 @@ The source data contained Human Resource 22000 records from 2000 to 2020. This i
 
 Data Cleaning & Analysis:
 This was done on SQL server 2022 involving
-
 Data loading & inspection
 Handling missing values
 Data cleaning and analysis
+
 Data Visualization:
 Power BI Desktop In a corporate setting, results can be shared online on www.powerbi.com
 
